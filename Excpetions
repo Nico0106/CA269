@@ -1,0 +1,9 @@
+try
+{
+  //your code
+}
+catch(Exception e)
+{
+  //catches the error
+  System.out.println("Can't divide by zero!")
+}
